@@ -1,3 +1,7 @@
+OUTDATED DESCRIPTION !
+
+That will be updated soon, stay in touch !
+
 ## Description
 
 This project is a an example of using JUnit in a Java project in IntelliJ IDE.
